@@ -15,7 +15,7 @@ MSBD5017 NFT Risk Assessment is a tool designed for analyzing and quantifying th
 
 ## Usage
 
-`NFT_risk_scores_methdology.py` preform exploratory analysis on NFT data and developed methodolody we used to derive NFT risk score.
+`NFT_risk_scores_methdology.py` preforms exploratory analysis on NFT data and develops methodolody we used to derive NFT risk score.
 
 ## Data Sources
 This project utilizes both on-chain and off-chain data sources, including:
