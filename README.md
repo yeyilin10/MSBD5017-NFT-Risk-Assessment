@@ -28,4 +28,5 @@ This project utilizes both on-chain and off-chain data sources, including:
 - NFT marketplace data
 - User survey responses (collected through a blockchain-based survey system)
 
-
+## Usage
+Click the test mode to use the platform on Flutterflow. 'https://app.flutterflow.io/project/travel-app-pkww7c'
