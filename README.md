@@ -19,9 +19,13 @@ MSBD5017 NFT Risk Assessment is a tool designed for analyzing and quantifying th
 
 `Risk Assessment` stores NFT data we used to perform data analysis and threshold setting.
 
+## Smart Contract
+The `NFTCommentReward` contract implements a user engagement model, allowing users to comment on NFTs and receive rewards. This contract is an integral part of our risk assessment system, fostering community involvement and providing valuable insights.
+
 ## Data Sources
 This project utilizes both on-chain and off-chain data sources, including:
 - Blockchain transaction records
 - NFT marketplace data
 - User survey responses (collected through a blockchain-based survey system)
+
 
